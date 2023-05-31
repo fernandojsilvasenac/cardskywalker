@@ -1,4 +1,7 @@
 # cardskywalker
 
-[Visite meu projeto] (https://fernandojsilvasenac.github.io/cardskywalker/)
 
+[Visite o projeto](https://fernandojsilvasenac.github.io/cardskywalker/)
+
+#rocketseat
+#boraCodar
